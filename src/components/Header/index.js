@@ -8,7 +8,7 @@ function Header() {
         <div className ="navBar">
             <Link className = "navItem" to="/about"> About </Link>
             <Link className = "navItem" to="/portfolio"> Portfolio </Link>
-            <Link className = "navItem" to="/contact">Contact</Link>
+            {/* <Link className = "navItem" to="/contact">Contact</Link> */}
         </div>
 
     )
