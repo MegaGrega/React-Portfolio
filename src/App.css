@@ -39,6 +39,22 @@
 
 .color{
   background: cornsilk;
-  height: 80vh;
+  min-height: 80vh;
   padding-top: 2vh;
+  padding-bottom:2vh;
+}
+
+.about{
+  background:white;
+  border-radius: 15px;
+  padding: 3px;
+  margin: 1vh;
+  text-align: center;
+}
+
+.round{
+  border-radius: 15px;
+  width: 200px;
+  height: 200px;
+  margin: 2vw;
 }

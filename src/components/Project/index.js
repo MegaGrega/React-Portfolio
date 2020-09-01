@@ -3,7 +3,7 @@ import './style.css'
 
 function Project(props) {
     return (
-       <div>
+       <div className = "project">
            <a href = {props.link} target = "blank"><h3>{props.name}</h3></a>
            <img src={props.img}></img>
             <p>{props.description}</p>
