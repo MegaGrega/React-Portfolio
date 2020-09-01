@@ -1,0 +1,8 @@
+.navBar{
+    background:bisque;
+    height: 10vh;
+}
+.navItem{
+    font-size: 4vh;
+    margin: 10px;
+}
