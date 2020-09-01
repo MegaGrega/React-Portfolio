@@ -9,10 +9,10 @@ import rmgImage from '../assets/images/readmeGen.PNG'
 
 const drawscapeDesc = "Drawscape is a site where you can invite friends to private drawing rooms to chat and play games."
 const guidMeDesc = "GuideMe is a peer to peer adventure hosting website where you can find trusted guides to take you on great adventures."
-const wavelDesc = "GuideMe is a peer to peer adventure hosting website where you can find trusted guides to take you on great adventures."
-const googleBooksDesc = "GuideMe is a peer to peer adventure hosting website where you can find trusted guides to take you on great adventures."
-const noteTakerDesc = "GuideMe is a peer to peer adventure hosting website where you can find trusted guides to take you on great adventures."
-const readMeDesc = "GuideMe is a peer to peer adventure hosting website where you can find trusted guides to take you on great adventures."
+const wavelDesc = "Wavel is an application that helps you find various information about your next travel destination"
+const googleBooksDesc = "This is a react app that queries the google books api to help you create your reading list"
+const noteTakerDesc = "This app lets you take notes and look at them later"
+const readMeDesc = "This is a command line application that aids the generation of readMe files"
 
 function About() {
     return (
