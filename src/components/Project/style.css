@@ -2,6 +2,9 @@
     background:white;
     border-radius: 15px;
     padding: 3px;
-    margin: 1vh;
+    margin: 2vh;
     text-align: center;
+}
+.sizing{
+    max-width: 70%;
 }
